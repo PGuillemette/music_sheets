@@ -30,3 +30,15 @@ c1: G | D | Am | Am |
 
 c1: C | D |
 
+## Bridge
+l1: Em/D | C9  x3
+
+## Pre-chorus 2 
+c1: A | C | D |  D
+
+```
+Intro x2        |    Verse x2       |    Verse x2        | Bridge
+Verse x2        |    Pre-Chorus     |    Pre-Chorus      | Pre-Chorus 2
+Pre-Chorus      |    Chorus         |    Chorus 2        | Chorus 2
+End on G
+
