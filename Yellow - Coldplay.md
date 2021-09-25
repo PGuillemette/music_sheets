@@ -18,7 +18,7 @@ c1: G | G | D6 |  D6 | Cmaj7 | Cmaj7
 c1: G | G | D6 |  D6 | Cmaj7 | Cmaj7
 
 ## Pre chorus
-c1: G | G11 | G
+c1: G | G11 G  |
 
 ## Chorus
 c1: Cmaj7  |  Em D6 |
