@@ -3,6 +3,8 @@
 
 # Yellow - Coldplay
 
+Capo 4
+
 ## Intro
 
 c1: G | G11  | G  | G11
