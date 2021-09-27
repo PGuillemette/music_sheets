@@ -1,7 +1,7 @@
 ---
 ---
 
-# Yellow v2 - Coldplay
+# Yellow v3 - Coldplay
 
 Capo 2
 
